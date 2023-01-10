@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 97vh;
+  padding: 0;
+  background-image: url("https://livedoor.blogimg.jp/ata_rime/imgs/a/c/ac655058.png");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+  object-fit: cover;
+  background-color: black;
+}
+button {
+  background-color: aqua;
+  width: 10vw;
+  height: 10vh;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  color: rgb(252, 187, 10);
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
